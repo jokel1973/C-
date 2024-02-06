@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jorda\\GitHub\\C#\\VSAssignment\\VSAssignment\\VSAssignment.csproj": {}
+    "C:\\Users\\jorda\\GitHub\\C#\\C-\\VSAssignment\\VSAssignment\\VSAssignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jorda\\GitHub\\C#\\VSAssignment\\VSAssignment\\VSAssignment.csproj": {
+    "C:\\Users\\jorda\\GitHub\\C#\\C-\\VSAssignment\\VSAssignment\\VSAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jorda\\GitHub\\C#\\VSAssignment\\VSAssignment\\VSAssignment.csproj",
+        "projectUniqueName": "C:\\Users\\jorda\\GitHub\\C#\\C-\\VSAssignment\\VSAssignment\\VSAssignment.csproj",
         "projectName": "VSAssignment",
-        "projectPath": "C:\\Users\\jorda\\GitHub\\C#\\VSAssignment\\VSAssignment\\VSAssignment.csproj",
+        "projectPath": "C:\\Users\\jorda\\GitHub\\C#\\C-\\VSAssignment\\VSAssignment\\VSAssignment.csproj",
         "packagesPath": "C:\\Users\\jorda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jorda\\GitHub\\C#\\VSAssignment\\VSAssignment\\obj\\",
+        "outputPath": "C:\\Users\\jorda\\GitHub\\C#\\C-\\VSAssignment\\VSAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
